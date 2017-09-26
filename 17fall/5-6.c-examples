@@ -1,0 +1,16 @@
+* More C-examples (A toy string encoder)
+  * File IO
+  * flip order
+  * switch upper and lower case
+  * mirror letter
+  
+* Debug basic usages
+  * run a program
+  * step
+  * print
+  * set
+  * breakpoint
+  
+* Debug advanced usages
+  * attach to a running process
+  * debug w/ core dump
